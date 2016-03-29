@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <resources>
+        <string-array name="customEntries">
+            <item>Texto nº 1</item>
+            <item>Texto nº 2</item>
+            <item>Texto nº 3</item>
+            <item>Texto nº 4</item>
+            <item>Texto nº 5</item>
+        </string-array>
+
+
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SliderAtributes">
+        <attr name="android:entries" />
+        <attr name="onClickPrevButton" format="string" />
+        <attr name="onClickNextButton" format="string" />
+    </declare-styleable>
+
+</resources>
